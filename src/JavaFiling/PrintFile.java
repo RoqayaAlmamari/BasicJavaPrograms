@@ -28,7 +28,7 @@ public class PrintFile {
             e.printStackTrace();
             System.out.println("File not found: " + e.getMessage());
         } catch (Exception e){
-            System.out.println("I don't know what happen!!");
+            System.out.println("I don't know what happen!! Please Try again");
 
         }
     }
